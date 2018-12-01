@@ -1,10 +1,6 @@
 ---
-layout: default
-title: Bit Melt
+layout: home
 ---
-
-Bit Melt
-========
 
 Bits of information.
 
