@@ -2,5 +2,5 @@
 layout: home
 ---
 
-Please visit the [blog](https://blog.bitmelt.com/).
+Sometimes interesting bits of information are posted here.
 
